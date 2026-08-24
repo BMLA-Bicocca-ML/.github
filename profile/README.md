@@ -34,9 +34,9 @@ You may find repositories containing:
 ### 📬 Contact us
 
 For questions, collaborations, events, or general information, feel free to get in touch with us.  
-🌐 Website: [BMLA Website](coming_soon)  
+🌐 Website: [BMLA Website]([coming_soon](https://bicoccamla.com/))  
 👤 Linkedin: [BMLA](linkedin.com/company/bmla-bicocca)  
-📧 Email: `comingsoon@comingsoon.com`  
+📧 Email: `contact@bicoccamla.com`  
 
 
 ### 🤝 Collaborate with us
