@@ -8,21 +8,7 @@ We bring together students passionate about AI, Machine Learning and Data Scienc
 
 ### 🏗️ GitHub repository structure
 
-This organization contains the code and resources behind BMLA's activities and projects.
-You may find repositories containing:
+This GitHub organization contains the code and resources behind BMLA's activities and projects.  
+We aim to keep our projects open, reproducible, and accessible whenever possible.
 
-- workshop and event-related materials
-- educational resources
-- collaborative projects
-- tools and infrastructure used by the association
-- We aim to keep our projects open, reproducible, and accessible whenever possible.
-
-🤝 We're open to collaborations involving:
-
-- technical workshops  
-- seminars and talks  
-- research-oriented activities  
-- student projects  
-- partnerships and events
-
-For questions, collaborations, or general information, feel free to get in touch with us.  
+🤝 For questions, collaborations, or general information, feel free to get in touch with us.  
