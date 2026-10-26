@@ -1,6 +1,6 @@
 # BMLA - Bicocca Machine Learning Association
 
-`contact@bicoccamla.com` | [Website](https://bicoccamla.com/) | [LinkedIn](https://www.linkedin.com/company/bmla-bicocca) | [Instgram](https://www.instagram.com/bmla_bicocca) | 
+`contact@bicoccamla.com` | [Website](https://bicoccamla.com/) | [LinkedIn](https://www.linkedin.com/company/bmla-bicocca) | [Insatgram](https://www.instagram.com/bmla_bicocca) | 
 
 BMLA is a student-led Machine Learning community at the University of Milano-Bicocca.  
 
